@@ -1,0 +1,10 @@
+html,
+body{
+    /* font-family: 'Roboto',sans-serif; */
+    background-color: #292F3F;
+    color: #FFFFFF;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
